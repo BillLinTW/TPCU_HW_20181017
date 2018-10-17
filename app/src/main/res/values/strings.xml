@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">HOW_Are_You</string>
     <string name="action_settings">Settings</string>
+    <string name="hint_name">請輸入姓名 中英文</string>
+    <string name="hint_date">請輸入日期: 年/月/日</string>
+    <string name="hint_time">請輸入時間: 時:分:秒</string>
+    <string name="hint_phone">請輸入電話</string>
+    <string name="hint_num">請輸入學號</string>
+    <string name="hint_pw">請輸入密碼</string>
+    <string name="hint_web">請輸入網址</string>
+    <string name="hint_email">請輸入電子郵件</string>
 </resources>
